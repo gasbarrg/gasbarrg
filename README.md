@@ -1,7 +1,7 @@
 # About Me:
 My name is Gabe Gasbarre, and I am studing Computer Engineering at GVSU⚓<br>I am looking to specialize in Embedded Systems and Automation.<br>
 
-# Check out my portfolio Website:<br>
+# Check out my portfolio Website:
 # [Gasbarrg.github.io](https://gasbarrg.github.io)<br>
 LinkedIn:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabe.gasbarre) 

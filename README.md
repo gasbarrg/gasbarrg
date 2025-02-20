@@ -1,5 +1,5 @@
 # About Me:
-My name is Gabe Gasbarre, and I am studing Computer Engineering at GVSU⚓<br>I am looking to specialize in Embedded Systems, and automation, and software engineering.<br>
+My name is Gabe Gasbarre, and I am studing Computer Engineering at GVSU⚓<br>I am looking to specialize in Embedded Systems, automation, and software engineering.<br>
 
 ## Check out my portfolio Website: [Gasbarrg.github.io](https://gasbarrg.github.io)<br>
 
